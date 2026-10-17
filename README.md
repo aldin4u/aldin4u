@@ -1,46 +1,59 @@
-[README.md](https://github.com/user-attachments/files/33608175/README.md)
 # Aldin Ademović
 
-**AI Product Leader · Founder, [Huzzah Labs](https://huzzahlabs.org) · Former CPO, Etherspot**
+**AI Product Leader · Founder, [Huzzah Labs](https://huzzah-labs-preview.vercel.app) · Former Chief Product Officer, Etherspot**
 
-I turn emerging technology into products people can actually use. My work spans product strategy, zero-to-one launches, AI-assisted development, agent workflows, and scaling Web3 platforms.
+I build useful products at the intersection of **AI, user experience and complex technology**. My work combines senior product leadership with hands-on, AI-assisted delivery — from zero-to-one launches to scaling Web3 product teams and workflows.
 
-I run **Huzzah Labs**, an independent AI product studio. I combine senior product leadership with hands-on building: shaping the problem, designing the experience, developing with AI tools, and getting working products into users' hands.
+[Huzzah Labs portfolio](https://huzzah-labs-preview.vercel.app) · [HYPX live product](https://hypx.app) · [LinkedIn](https://www.linkedin.com/in/ademovicaldin/)
 
-**Open to:** Head/VP/CPO-level product roles, senior and principal AI Product Manager positions, and product-led customer success leadership — alongside selected Huzzah Labs collaborations.
+**Open to:** Head/VP/CPO product leadership roles, Principal/Senior AI Product Manager opportunities, and product-led customer success leadership. I also consider selected studio collaborations.
 
 ## Selected work
 
-| Product | What I do / what it demonstrates |
-| --- | --- |
-| **[HYPX](https://hypx.app)** | Founded and built a live Hyperliquid trading automation product. Passkey onboarding, delegated trade-only wallets, volatility-adaptive strategies, real-time dashboards, and PWA notifications. |
-| **[Etherys](https://etherys.co.uk)** | Built and operate a D2C wellness brand, using AI in the Shopify build, creative production workflows, content/keyword research, and advertising performance analysis. |
-| **[Bubamara Klub](https://www.youtube.com/channel/UCjThKTJRSa9198xw_ouNDRg)** | A Bosnian-language children's learning video project, exploring AI-assisted creative production and education content. |
-| **[Huzzah Labs](https://huzzah-labs-preview.vercel.app)** | An independent studio bringing together product discovery, AI-assisted development, design, and new venture experiments. |
+### HYPX — trading automation, designed for humans
 
-*These are commercial products and creative ventures, not necessarily open-source repositories. I'm happy to discuss product decisions, architecture, demos, and delivery methods.*
+<a href="https://hypx.app"><img src="https://hypx.app/landing-mobile-screenshot.jpg" width="320" alt="HYPX mobile product screenshot from the official website" /></a>
 
-## Product leadership background
+A live product I founded and built to simplify trading automation on Hyperliquid. **Passkey-first onboarding, trade-only delegated wallets, ATR-adaptive strategies, real-time dashboards and push notifications** — designed as one connected experience.
 
-- **Etherspot — Chief Product Officer:** Led product development and delivery. Improved team delivery velocity by **55%** and reduced time to market by **40%**.
-- **Pillar / PillarX:** Led product across wallet and Web3 experiences, with a focus on onboarding, account abstraction, ecosystem development, and user adoption.
-- **Moondance Labs:** Worked on Web3 ecosystem and developer-facing product growth through Huzzah Labs.
+[Explore HYPX](https://hypx.app) · [Read the product case study](case-studies/hypx.md)
+
+### Etherys — AI-enabled ecommerce operations
+
+Built and operate a wellness ecommerce brand using **Shopify**, AI-assisted website development, product imagery and video workflows, keyword research, and paid-campaign analysis.
+
+[Visit Etherys](https://etherys.co.uk) · [Read the ecommerce case study](case-studies/etherys.md)
+
+### Pillar / PillarX — Web3 product leadership
+
+Led product across wallet and account-abstraction experiences, focusing on onboarding, developer ecosystems and delivering usable infrastructure-backed products.
+
+[PillarX open-source codebase](https://github.com/pillarwallet/x) · [Product leadership case study](case-studies/product-leadership.md)
+
+### Huzzah Labs — independent AI product studio
+
+I run an independent studio exploring how to combine product thinking, design and agent-assisted development to build and launch practical new products. The portfolio includes HYPX, Etherys and **[Bubamara Klub](https://www.youtube.com/channel/UCjThKTJRSa9198xw_ouNDRg)**, a Bosnian-language children's educational video project.
+
+[Explore the studio website](https://huzzah-labs-preview.vercel.app)
+
+## Leadership results
+
+As **Chief Product Officer at Etherspot**, I led product delivery improvements that increased **delivery velocity by 55%** and reduced **time to market by 40%**. My background also includes Pillar/PillarX and developer-facing Web3 product work through Huzzah Labs.
+
+[More on Etherspot and PillarX](case-studies/product-leadership.md)
 
 ## How I work
 
-**Product:** Strategy · discovery · roadmaps · prioritisation · growth · onboarding · product analytics · cross-functional leadership
+- **Product leadership:** Strategy, discovery, roadmaps, growth, prioritisation, onboarding, analytics and cross-functional teams.
+- **AI development:** OpenAI API, OpenAI Codex, Claude Code, MCP, OpenClaw, Hermes Agent and Ollama.
+- **Hands-on execution:** AI-assisted prototyping, agent workflows, frontend/UX collaboration, APIs, integrations, deployment and iteration.
 
-**AI and agents:** OpenAI API · Claude Code · OpenAI Codex · MCP · OpenClaw · Hermes Agent · Ollama · AI-assisted product development
+I care about reliable products that solve real customer problems — not AI demos for their own sake.
 
-**Technical collaboration:** Prototyping · frontend/product UX · APIs and integrations · developer workflows · deployment and iteration
+---
 
-I care about *useful systems in production*, not AI demos for their own sake. My focus is on turning capabilities into clear customer value — and on building, measuring, and iterating quickly.
+### Let's connect
 
-## Connect
+If you're hiring an **AI product leader**, want to discuss a product, or are exploring a studio collaboration, [reach me via LinkedIn](https://www.linkedin.com/in/ademovicaldin/) or [browse Huzzah Labs](https://huzzah-labs-preview.vercel.app).
 
-- **LinkedIn:** [Aldin Ademović](https://www.linkedin.com/in/ademovicaldin/)
-- **Studio and portfolio:** [Huzzah Labs](https://huzzah-labs-preview.vercel.app)
-- **Live product:** [HYPX](https://hypx.app)
-- **Commerce venture:** [Etherys](https://etherys.co.uk)
-
-**Interested in AI product leadership, a product review, or a studio collaboration?** [Connect with me on LinkedIn](https://www.linkedin.com/in/ademovicaldin/).
+*Portfolio note: Some products are commercial ventures with private source code. Linked repositories are not a claim of sole authorship of team-owned codebases.*
